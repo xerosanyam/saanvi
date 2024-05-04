@@ -1,3 +1,5 @@
 - chatar matar
 - gudia
 - matar ka dana
+- shanu
+- chotu motu
