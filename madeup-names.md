@@ -3,3 +3,7 @@
 - matar ka dana
 - shanu
 - chotu motu
+- 240 tola (birth weight)
+- hyperbola
+- parabola
+- cocacola
